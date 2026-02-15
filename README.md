@@ -58,4 +58,14 @@ Inventory system managing Parts and Products with association support and live s
 
 👉 https://github.com/JennaJaneway/InventoryManagementApp
 
+---
+
+## 🎨 UX/UI Work
+
+### 🌴 Taniti Travel Website (Wix)
+
+Responsive tourism website prototype focused on usability, navigation, and visual design.
+
+🔗 Live Site: https://jennajaneway.wixsite.com/taniti  
+👉 Repo: https://github.com/JennaJaneway/TanitiTravelSite
 
