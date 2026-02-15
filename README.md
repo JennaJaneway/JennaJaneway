@@ -1,33 +1,58 @@
-# Hi, I’m Jenna 👋
+# Hi, I'm Jenna 👋
 
-I’m a software engineering student with a strong interest in building practical, user-focused applications. I enjoy working on full projects from requirements through implementation, testing, and documentation.
+Software engineering graduate focused on building practical, user-friendly applications using C#, .NET, Angular, and MySQL.
 
-## 💻 What I’m Working With
-- C# (.NET, WinForms)
-- MySQL
-- Desktop application development
+🔎 Currently seeking: Junior Software Developer / Junior .NET Developer roles  
+📍 Florida, USA  
+🔗 LinkedIn: https://www.linkedin.com/in/jenna-gordon/
+
+---
+
+## 🛠️ Technical Focus
+
+- C# / .NET (WinForms)
+- Angular & TypeScript
+- MySQL & data-driven applications
 - Object-oriented design
-- Input validation and business rules
-- Localization and time-zone–aware logic
+- Input validation & business rules
+- Time zone and localization handling
 
-## 📌 Featured Project
-### Scheduling Application (C# WinForms)
-A desktop scheduling application that supports customer and appointment management, built-in reports, and localized login messaging (English/French).
+---
 
-- Time-zone–aware appointment validation (UTC / EST)
-- Multiple reporting options
-- MySQL data persistence
-- Clean UI with input validation
+## 🚀 Featured Projects
 
-👉 View the project here:  
-https://github.com/JennaJaneway/SchedulingApp
+### 📅 SchedulingApp (C# WinForms + MySQL)
+Desktop scheduling system for managing customers and appointments with reporting and localization.
 
-## 🌱 Currently Learning
-- Advanced C# patterns
-- Database-backed desktop applications
-- Writing clean, maintainable code
-- Version control best practices with GitHub
+**Highlights:**
+- MySQL persistence for customers and appointments  
+- UTC storage with EST business-hours validation  
+- Reporting features and user-friendly validation  
 
-## 🔗 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/jgordon89/
+👉 https://github.com/JennaJaneway/SchedulingApp
+
+---
+
+### 🌍 AngularWorldMap (Angular + TypeScript)
+Interactive world map with clickable countries and dynamic country information.
+
+**Highlights:**
+- SVG-based interactive map with visual highlighting  
+- Dynamic country information display  
+- Demo GIF and full screenshot documentation  
+
+👉 https://github.com/JennaJaneway/AngularWorldMap
+
+---
+
+### 📦 InventoryManagementApp (C# WinForms + OOP)
+Inventory system managing Parts and Products with association support and live search.
+
+**Highlights:**
+- Object-oriented design with Parts/Products model  
+- Live search filtering  
+- Clean validation and UI behavior  
+
+👉 https://github.com/JennaJaneway/InventoryManagementApp
+
 
