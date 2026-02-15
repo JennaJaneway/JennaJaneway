@@ -1,6 +1,9 @@
 # Hi, I'm Jenna 👋
 
-Software engineering graduate focused on building practical, user-friendly applications using C#, .NET, Angular, and MySQL.
+Software engineering student at Western Governors University, building practical, user-friendly desktop and web applications using C#, .NET, Angular, and MySQL.
+
+🎓 B.S. Software Engineering — Western Governors University  
+(Expected Graduation: June 2026)
 
 🔎 Currently seeking: Junior Software Developer / Junior .NET Developer roles  
 📍 Florida, USA  
