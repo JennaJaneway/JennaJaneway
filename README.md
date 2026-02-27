@@ -1,11 +1,11 @@
 # Hi, I'm Jenna 👋
 
-Software engineering student at Western Governors University, building practical, user-friendly desktop and web applications using C#, .NET, Angular, and MySQL.
+Software engineering student at Western Governors University, building practical, user-focused desktop and web applications using C#, .NET, Angular, and MySQL.
 
 🎓 B.S. Software Engineering — Western Governors University  
 (Expected Graduation: June 2026)
 
-🔎 Currently seeking: Junior Software Developer / Junior .NET Developer roles  
+🔎 🔎 Currently seeking: Junior Software Developer or Junior .NET Developer roles
 📍 Florida, USA  
 🔗 LinkedIn: https://www.linkedin.com/in/jenna-gordon/
 
@@ -45,6 +45,19 @@ Interactive world map with clickable countries and dynamic country information.
 - Demo GIF and full screenshot documentation  
 
 👉 https://github.com/JennaJaneway/AngularWorldMap
+
+---
+
+### 🐾 Pet Paradigm UI Prototype (PowerPoint UI Design)
+Multi-page website interface prototype demonstrating navigation feedback, layout consistency, and pet-focused branding.
+
+**Highlights:**
+- Primary navigation with paw-print active state indicator  
+- Secondary navigation underline feedback  
+- Consistent multi-page layout and visual hierarchy  
+- Full prototype and annotated screenshots  
+
+👉 https://github.com/JennaJaneway/PetParadigmUIPrototype
 
 ---
 
