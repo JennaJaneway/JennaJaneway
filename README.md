@@ -8,7 +8,7 @@ Software engineering student at Western Governors University with a passion for 
 🔎 **Currently seeking:** Junior Developer or Junior .NET Developer opportunities
 📍 Florida, USA | Open to Relocation
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/jenna-gordon/
+🔗 **LinkedIn:** https://www.linkedin.com/in/jgordon89
 
 ---
 
