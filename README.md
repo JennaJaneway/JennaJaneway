@@ -1,84 +1,101 @@
 # Hi, I'm Jenna 👋
 
-Software engineering student at Western Governors University, building practical, user-focused desktop and web applications using C#, .NET, Angular, and MySQL.
+Software engineering student at Western Governors University with a passion for building practical, user-focused applications. My experience includes desktop, mobile, and web development using C#, .NET, .NET MAUI, Angular, TypeScript, SQLite, and MySQL.
 
-🎓 B.S. Software Engineering — Western Governors University  
-(Expected Graduation: June 2026)
+🎓 **B.S. Software Engineering Candidate — Western Governors University**
+**Expected Graduation: 2026 (Capstone in Progress)**
 
-🔎 🔎 Currently seeking: Junior Software Developer or Junior .NET Developer roles
-📍 Florida, USA  
-🔗 LinkedIn: https://www.linkedin.com/in/jenna-gordon/
+🔎 **Currently seeking:** Junior Developer or Junior .NET Developer opportunities
+📍 Florida, USA | Open to Relocation
 
----
-
-## 🛠️ Technical Focus
-
-- C# / .NET (WinForms)
-- Angular & TypeScript
-- MySQL & data-driven applications
-- Object-oriented design
-- Input validation & business rules
-- Time zone and localization handling
+🔗 **LinkedIn:** https://www.linkedin.com/in/jenna-gordon/
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Technical Skills
 
-### 📅 SchedulingApp (C# WinForms + MySQL)
-Desktop scheduling system for managing customers and appointments with reporting and localization.
+* C#
+* .NET / .NET MAUI / WinForms
+* Angular & TypeScript
+* SQLite & MySQL
+* Object-Oriented Programming
+* Database Design
+* Input Validation & Business Rules
+* Git & GitHub
+* GitLab
+* Visual Studio 2022
 
-**Highlights:**
-- MySQL persistence for customers and appointments  
-- UTC storage with EST business-hours validation  
-- Reporting features and user-friendly validation  
+---
+
+# 🚀 Featured Projects
+
+## 📚 TermTacklr (.NET MAUI + C# + SQLite)
+
+Cross-platform mobile academic planning application developed using .NET MAUI. Students can organize academic terms, courses, assessments, instructor information, notes, and notifications through a clean mobile interface.
+
+**Highlights**
+
+* SQLite local database
+* CRUD operations for terms, courses, and assessments
+* Course notes with sharing
+* Local notifications
+* Assessment validation rules
+* Physical Android device testing
+
+👉 https://github.com/JennaJaneway/TermTacklr
+
+---
+
+## 📅 SchedulingApp (C# WinForms + MySQL)
+
+Desktop scheduling application for managing customers and appointments with reporting, localization, and UTC time-zone handling.
+
+**Highlights**
+
+* MySQL persistence
+* UTC storage with EST business-hours validation
+* Reports and business-rule validation
 
 👉 https://github.com/JennaJaneway/SchedulingApp
 
 ---
 
-### 🌍 AngularWorldMap (Angular + TypeScript)
-Interactive world map with clickable countries and dynamic country information.
+## 📦 InventoryManagementApp (C# WinForms)
 
-**Highlights:**
-- SVG-based interactive map with visual highlighting  
-- Dynamic country information display  
-- Demo GIF and full screenshot documentation  
+Inventory management system using object-oriented design to manage Parts and Products.
 
-👉 https://github.com/JennaJaneway/AngularWorldMap
+**Highlights**
 
----
-
-### 🐾 Pet Paradigm UI Prototype (PowerPoint UI Design)
-Multi-page website interface prototype demonstrating navigation feedback, layout consistency, and pet-focused branding.
-
-**Highlights:**
-- Primary navigation with paw-print active state indicator  
-- Secondary navigation underline feedback  
-- Consistent multi-page layout and visual hierarchy  
-- Full prototype and annotated screenshots  
-
-👉 https://github.com/JennaJaneway/PetParadigmUIPrototype
-
----
-
-### 📦 InventoryManagementApp (C# WinForms + OOP)
-Inventory system managing Parts and Products with association support and live search.
-
-**Highlights:**
-- Object-oriented design with Parts/Products model  
-- Live search filtering  
-- Clean validation and UI behavior  
+* OOP architecture
+* Live search
+* Validation and association management
 
 👉 https://github.com/JennaJaneway/InventoryManagementApp
 
 ---
 
-## 🎨 UX/UI Work
+## 🌍 AngularWorldMap (Angular + TypeScript)
 
-### 🌴 Taniti Travel Website (Wix)
+Interactive world map displaying country information using dynamic data.
 
-Responsive tourism website prototype focused on usability, navigation, and visual design.
+👉 https://github.com/JennaJaneway/AngularWorldMap
 
-🔗 Live Site: https://jennajaneway.wixsite.com/taniti  
-👉 Repo: https://github.com/JennaJaneway/TanitiTravelSite
+---
 
+## 🐾 Pet Paradigm UI Prototype
+
+Multi-page website interface prototype demonstrating UI/UX principles and navigation design.
+
+👉 https://github.com/JennaJaneway/PetParadigmUIPrototype
+
+---
+
+# 🎨 UX/UI Work
+
+## 🌴 Taniti Travel Website
+
+Responsive tourism website prototype created in Wix.
+
+🔗 Live Site: https://jennajaneway.wixsite.com/taniti
+
+👉 Repository: https://github.com/JennaJaneway/TanitiTravelSite
