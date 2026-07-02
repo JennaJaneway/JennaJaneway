@@ -1,6 +1,6 @@
 # Hi, I'm Jenna 👋
 
-Software engineering student at Western Governors University with a passion for building practical, user-focused applications. My experience includes desktop, mobile, and web development using C#, .NET, .NET MAUI, Angular, TypeScript, SQLite, and MySQL.
+Software engineering graduate at Western Governors University with a passion for building practical, user-focused applications. My experience includes desktop, mobile, and web development using C#, .NET, .NET MAUI, Angular, TypeScript, SQLite, and MySQL.
 
 🎓 **B.S. Software Engineering Candidate — Western Governors University**
 **Expected Graduation: 2026 (Capstone in Progress)**
