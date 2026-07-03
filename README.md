@@ -1,90 +1,92 @@
-# Hi, I'm Jenna 👋
+# Hi, I'm Jenna Gordon 👋
 
-Software engineering graduate at Western Governors University with a passion for building practical, user-focused applications. My experience includes desktop, mobile, and web development using C#, .NET, .NET MAUI, Angular, TypeScript, SQLite, and MySQL.
+I'm a Software Engineer with 3+ years of experience supporting enterprise payment systems and a passion for building practical applications that solve real problems.
 
-🎓 **B.S. Software Engineering Candidate — Western Governors University**
-**Expected Graduation: 2026 (Capstone in Progress)**
+I recently earned my **Bachelor of Science in Software Engineering** from Western Governors University, where I developed desktop, web, and mobile applications using **C#**, **.NET**, **.NET MAUI**, **Angular**, **SQL**, **SQLite**, and **MySQL**.
 
-🔎 **Currently seeking:** Junior Developer or Junior .NET Developer opportunities
-📍 Florida, USA | Open to Relocation
+## 🛠 Technical Skills
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/jgordon89
+**Languages:** C#, SQL, JavaScript, TypeScript, HTML, CSS
 
----
+**Frameworks & Platforms:** .NET, .NET MAUI, WinForms, Angular
 
-# 🛠 Technical Skills
+**Databases:** SQLite, MySQL
 
-* C#
-* .NET / .NET MAUI / WinForms
-* Angular & TypeScript
-* SQLite & MySQL
-* Object-Oriented Programming
-* Database Design
-* Input Validation & Business Rules
-* Git & GitHub
-* GitLab
-* Visual Studio 2022
+**Tools:** Visual Studio 2022, VS Code, Git, GitHub, GitLab, MySQL Workbench
+
+**Concepts:** Object-Oriented Programming, Mobile Development, Desktop Development, CRUD Applications, Data Validation, Debugging, API Integration
 
 ---
 
-# 🚀 Featured Projects
+# 📱 TermTacklr (.NET MAUI)
 
-## 📚 TermTacklr (.NET MAUI + C# + SQLite)
-
-Cross-platform mobile academic planning application developed using .NET MAUI. Students can organize academic terms, courses, assessments, instructor information, notes, and notifications through a clean mobile interface.
+Cross-platform academic planning application developed with **C#**, **.NET MAUI**, and **SQLite**.
 
 **Highlights**
 
-* SQLite local database
-* CRUD operations for terms, courses, and assessments
-* Course notes with sharing
-* Local notifications
-* Assessment validation rules
-* Physical Android device testing
+* Manage academic terms, courses, and assessments
+* Local SQLite database with full CRUD functionality
+* Instructor information management
+* Search and reporting features
+* Local notifications for important academic dates
+* Notes and sharing functionality
+* Data validation and user-friendly interface
 
 👉 https://github.com/JennaJaneway/TermTacklr
 
 ---
 
-## 📅 SchedulingApp (C# WinForms + MySQL)
+# 📅 SchedulingApp (C# WinForms + MySQL)
 
 Desktop scheduling application for managing customers and appointments with reporting, localization, and UTC time-zone handling.
 
 **Highlights**
 
-* MySQL persistence
-* UTC storage with EST business-hours validation
-* Reports and business-rule validation
+* MySQL database integration
+* Customer and appointment management
+* UTC storage with business-hours validation
+* User authentication and login activity logging
+* Localization support
+* Administrative reporting
 
 👉 https://github.com/JennaJaneway/SchedulingApp
 
 ---
 
-## 📦 InventoryManagementApp (C# WinForms)
+# 📦 InventoryManagementApp (C# WinForms)
 
-Inventory management system using object-oriented design to manage Parts and Products.
+Inventory management application built using object-oriented programming principles.
 
 **Highlights**
 
-* OOP architecture
-* Live search
-* Validation and association management
+* Parts and products management
+* Object-oriented architecture
+* Live search functionality
+* Validation and error handling
+* Associated parts management
 
 👉 https://github.com/JennaJaneway/InventoryManagementApp
 
 ---
 
-## 🌍 AngularWorldMap (Angular + TypeScript)
+# 🌍 AngularWorldMap
 
-Interactive world map displaying country information using dynamic data.
+Interactive Angular web application displaying country information from the World Bank API.
+
+**Highlights**
+
+* Angular and TypeScript
+* Interactive SVG world map
+* REST API integration
+* Dynamic country information
 
 👉 https://github.com/JennaJaneway/AngularWorldMap
 
 ---
 
-## 🐾 Pet Paradigm UI Prototype
+# 🐾 Pet Paradigm UI Prototype
 
-Multi-page website interface prototype demonstrating UI/UX principles and navigation design.
+Multi-page website interface prototype demonstrating user-centered design, navigation, and accessibility principles.
 
 👉 https://github.com/JennaJaneway/PetParadigmUIPrototype
 
@@ -98,4 +100,15 @@ Responsive tourism website prototype created in Wix.
 
 🔗 Live Site: https://jennajaneway.wixsite.com/taniti
 
-👉 Repository: https://github.com/JennaJaneway/TanitiTravelSite
+---
+
+## 🌱 Currently Focused On
+
+I'm continuing to expand my skills in C#, .NET, mobile application development, cloud technologies, and software engineering best practices while seeking opportunities as a Junior or Associate Software Engineer.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/jgordon89
+* GitHub: https://github.com/JennaJaneway
